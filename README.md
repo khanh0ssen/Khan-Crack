@@ -1,3 +1,3 @@
 # Khan-Crack
 
-# khann.py
+# khan-C.py
